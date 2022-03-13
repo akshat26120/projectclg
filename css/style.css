@@ -1,0 +1,80 @@
+header{
+        height: 160px;
+        border: 1px dashed red;
+   
+
+      } 
+footer{
+        height: 508px;
+        border: 1px dashed blue;
+
+      }
+main{
+      height: 4370.6px;
+      border: 1px dashed black;
+    
+    }    
+.a_tbdr{
+        border: 1px dashed gray;
+       
+       }
+  
+
+      @media (min-width: 1400px){
+            .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+            max-width: 1025px;
+        }  
+      }
+.a_nav{
+
+     color:gray;
+
+}
+.a_nav:hover{
+
+       color:black;
+}
+.a_ted{
+
+  color:black;
+
+}
+.a_ted:hover{
+
+    color:aliceblue;
+    background-color:yellowgreen ;
+    border-radius: 3px;
+}
+.a_ted1{
+
+  color:black;
+
+}
+.a_ted1:hover{
+
+    color:aliceblue;
+    background-color: cornflowerblue ;
+    border-radius: 3px;
+}
+.a_ted2{
+
+  color:black;
+
+}
+.a_ted2:hover{
+
+    color:aliceblue;
+    background-color: hotpink;
+    border-radius: 3px;
+}
+.a_ted3{
+
+  color:black;
+
+}
+.a_ted3:hover{
+
+    color:aliceblue;
+    background-color:purple ;
+    border-radius: 3px;
+}
