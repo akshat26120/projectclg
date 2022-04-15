@@ -78,3 +78,32 @@ main{
     background-color:purple ;
     border-radius: 3px;
 }
+.a_nav1{
+  color: blue;
+  background-color: aliceblue;
+  border-color: blue;
+}
+.a_nav1:hover{
+   color: aliceblue;
+   background-color: blue;  
+}
+.a_nav2{
+  background-color: aliceblue;
+  border-color: blue;
+}
+.a_nav2:hover{
+   color: aliceblue;
+   background-color: lightblue;
+   border-color: lightblue;  
+}
+
+.a_img{
+  height : 300px;
+   width : 308px;
+}
+.a_img:hover{
+  padding-left:8px;
+  padding-top:8px;
+  padding-bottom:3px;
+  padding-right: 3px;
+}
