@@ -1,23 +1,22 @@
 header{
         height: 160px;
-        border: 1px dashed red;
+        /*border: 1px dashed red;*/
    
 
       } 
 footer{
         height: 508px;
-        border: 1px dashed blue;
-
+        /*border: 1px dashed blue;*/
       }
 main{
-      height: 4370.6px;
-      border: 1px dashed black;
+      height: 2200.6px;
+      /*border: 1px dashed black;*/
     
     }    
-.a_tbdr{
+/*.a_tbdr{
         border: 1px dashed gray;
        
-       }
+       }*/
   
 
       @media (min-width: 1400px){
@@ -102,6 +101,16 @@ main{
    width : 308px;
 }
 .a_img:hover{
+  padding-left:8px;
+  padding-top:8px;
+  padding-bottom:3px;
+  padding-right: 3px;
+}
+.b_img{
+  height : 280px;
+   width : 308px;
+}
+.b_img:hover{
   padding-left:8px;
   padding-top:8px;
   padding-bottom:3px;
